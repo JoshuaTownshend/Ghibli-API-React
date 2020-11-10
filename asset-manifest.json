@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ghibli-API-React/static/css/main.a3ef811b.chunk.css",
+    "main.js": "/Ghibli-API-React/static/js/main.f1c33108.chunk.js",
+    "main.js.map": "/Ghibli-API-React/static/js/main.f1c33108.chunk.js.map",
+    "runtime-main.js": "/Ghibli-API-React/static/js/runtime-main.02688976.js",
+    "runtime-main.js.map": "/Ghibli-API-React/static/js/runtime-main.02688976.js.map",
+    "static/js/2.94a9ac96.chunk.js": "/Ghibli-API-React/static/js/2.94a9ac96.chunk.js",
+    "static/js/2.94a9ac96.chunk.js.map": "/Ghibli-API-React/static/js/2.94a9ac96.chunk.js.map",
+    "index.html": "/Ghibli-API-React/index.html",
+    "static/css/main.a3ef811b.chunk.css.map": "/Ghibli-API-React/static/css/main.a3ef811b.chunk.css.map",
+    "static/js/2.94a9ac96.chunk.js.LICENSE.txt": "/Ghibli-API-React/static/js/2.94a9ac96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02688976.js",
+    "static/js/2.94a9ac96.chunk.js",
+    "static/css/main.a3ef811b.chunk.css",
+    "static/js/main.f1c33108.chunk.js"
+  ]
+}
